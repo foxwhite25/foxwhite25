@@ -1,4 +1,4 @@
-### 👨🏻‍💻 &nbsp;关于我
+### 👨🏻‍💻 关于我
 
 ![img.png](img.png)
 
@@ -19,16 +19,16 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)
 
-### ⚙️ &nbsp;GitHub 分析
+### ⚙️ GitHub 分析
 
-<p align="center">
+<p align="left">
 <a href="https://github.com/AVS1508">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=foxwhite25&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=foxwhite25&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
 
-### 🤝🏻 &nbsp;与我联系
+### 🤝🏻 与我联系
 
 <p align="center">
 <a href="mailto:vct.xie@gmail.com"><img src="https://img.shields.io/badge/-vct.xie@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
