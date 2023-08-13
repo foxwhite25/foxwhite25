@@ -1,23 +1,48 @@
 ### 👨🏻‍💻 关于我
 
-![img.png](img.png)
+```rust
+struct People {
+    name: &'static str,
+    interests: &'static str,
+    studying: &'static str,
+    currently_learning: &'static str,
+    hobby: &'static str,
+    email: &'static str,
+}
 
+static Me: People = People {
+    name: "Fox_white",
+    interests: "Rust, Vim, HTMX",
+    studying: "Computer Science At Jinan University",
+    currently_learning: "Machine Learning, Edge Computing, Distributed Services",
+    hobby: "Plane Design, Programing, Gaming",
+    email: "vct.xie@gmail.com"
+};
+```
 <img alt="Night Coding" src="https://raw.githubusercontent.com/foxwhite25/foxwhite25/master/Night-Coding.gif" align="right"/>
 
 ### 🛠 我使用的技术
 
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
-![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)
-![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)
-![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)
-![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)
+![Rust](https://img.shields.io/badge/-Rust-05122A?style=for-the-badge&logo=rust)
+![Golang](https://img.shields.io/badge/-Go-05122A?style=for-the-badge&logo=go)
+![Python](https://img.shields.io/badge/-Python-05122A?style=for-the-badge&logo=python)
+![C](https://img.shields.io/badge/-C-05122A?style=for-the-badge&logo=C&logoColor=A8B9CC)
+![C++](https://img.shields.io/badge/-C++-05122A?style=for-the-badge&logo=C%2B%2B&logoColor=00599C)
+![Typescript](https://img.shields.io/badge/-TypeScript-05122A?style=for-the-badge&logo=typescript)
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=for-the-badge&logo=HTML5)
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=for-the-badge&logo=CSS3&logoColor=1572B6)
+
+![Svelte](https://img.shields.io/badge/-Svelte-05122A?style=for-the-badge&logo=svelte)
+![Next.js](https://img.shields.io/badge/-next.js-05122A?style=for-the-badge&logo=next.js)
+![Leptos](https://img.shields.io/badge/-Leptos-05122A?style=for-the-badge&logo=Leptos)
+
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-05122A?style=for-the-badge&logo=Kubernetes)
+![Elasticsearch](https://img.shields.io/badge/-Elasticsearch-05122A?style=for-the-badge&logo=Elasticsearch)
+![Apache Kafka](https://img.shields.io/badge/-Apache%20Kafka-05122A?style=for-the-badge&logo=Apache%20Kafka)
+
+![Git](https://img.shields.io/badge/-Git-05122A?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=for-the-badge&logo=github)
+![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=for-the-badge&logo=markdown)
 
 ### ⚙️ GitHub 分析
 
