@@ -21,7 +21,7 @@ static Me: People = People {
 ```
 <img alt="Night Coding" src="https://raw.githubusercontent.com/foxwhite25/foxwhite25/master/Night-Coding.gif" align="right"/>
 
-### 🛠 我使用的技术
+### 🛠 技术栈
 
 ![Rust](https://img.shields.io/badge/-Rust-05122A?style=for-the-badge&logo=rust)
 ![Golang](https://img.shields.io/badge/-Go-05122A?style=for-the-badge&logo=go)
@@ -56,5 +56,5 @@ static Me: People = People {
 ### 🤝🏻 与我联系
 
 <p align="center">
-<a href="mailto:vct.xie@gmail.com"><img src="https://img.shields.io/badge/-vct.xie@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
+<a href="mailto:vct.xie@gmail.com"><img src="https://img.shields.io/badge/-vct.xie@gmail.com-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
 </p>
